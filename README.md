@@ -37,6 +37,10 @@ Keyboard -> Delay before Repeat + Repeat speed .. fastest
 
 [ABS Programming Language](https://www.abs-lang.org/)
 
+### Env
+
+- Use direnv
+
 ### SSH
 
 ### PGP
@@ -82,3 +86,4 @@ HOWTO set alias to commoon usage
 
 ### Cloud Serverless
 - wrangler - npm i @cloudflare/wrangler -g
+
